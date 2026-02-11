@@ -7,4 +7,4 @@ services:
     volumes:
       - ./gerrit-site:/var/gerrit/review_site
     environment:
-      - CANONICAL_WEB_URL=http://localhost:8082
+      - CANONICAL_WEB_URL=http://localhost:8082 # Gerrit이 생성하는 링크의 기준 주소 설정임, 향후 변경 필요
