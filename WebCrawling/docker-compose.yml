@@ -1,0 +1,15 @@
+services:
+  crawler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: crawler
+    restart: unless-stopped
+    volumes:
+      - ./crawler.py:/app/crawler.py
+      - ./data:/app/data
+    environment:
+      - TZ=Asia/Seoul
+
+volumes:
+  data:
