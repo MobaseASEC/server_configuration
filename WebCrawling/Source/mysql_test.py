@@ -1,15 +1,17 @@
 import os
+from pathlib import Path
+from dotenv import load_dotenv
 import pymysql
 
-# 환경 변수 지정 TEST 용
+BASE_DIR = Path(__file__).resolve().parent
+load_dotenv(BASE_DIR / ".env", override=True)  # mysql_test.py와 같은 폴더의 .env
+
 conn = pymysql.connect(
     host=os.environ["MYSQL_HOST"],
     port=int(os.environ["MYSQL_PORT"]),
     user=os.environ["MYSQL_USER"],
     password=os.environ["MYSQL_PASSWORD"],
     db=os.environ["MYSQL_DB"],
-    charset="utf8mb4"
+    charset="utf8mb4",
 )
-
-print("MySQL 연결 성공")
-conn.close()
+print("DB connect OK")
