@@ -7,5 +7,22 @@
   },
   "files.watcherExclude": {
     ".git/**": true
-  }
+  },
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Conventional Commits 형식을 사용하세요."
+    },
+    {
+      "text": "커밋 유형은 feat, fix, docs, style, refactor, test, chore 중 하나를 사용하고 뒤에 ': '를 붙이세요."
+    },
+    {
+      "text": "제목은 한글로 작성하세요."
+    },
+    {
+      "text": "제목은 50자 이내로 작성하세요."
+    },
+    {
+      "text": "제목 끝에 마침표를 찍지 마세요."
+    }
+  ]
 }

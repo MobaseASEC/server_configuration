@@ -23,7 +23,7 @@ services:
       - /etc/timezone:/etc/timezone:ro
       - /etc/localtime:/etc/localtime:ro
     ports:
-      - "8084:3000"
+      - "8084:8084"
       - "2201:22"
     depends_on:
       - db
