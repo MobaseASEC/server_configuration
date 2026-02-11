@@ -5,11 +5,15 @@ services:
       dockerfile: Dockerfile
     container_name: crawler
     restart: unless-stopped
-    volumes:
-      - ./crawler.py:/app/crawler.py
-      - ./data:/app/data
+    env_file:
+      - ./Source/.env
     environment:
       - TZ=Asia/Seoul
+    volumes:
+      - ./Source/crawler.py:/app/crawler.py
+      - ./Source/rules.py:/app/rules.py
+      - ./Source/db_mysql.py:/app/db_mysql.py
+      - ./data:/app/data
 
 volumes:
   data:
