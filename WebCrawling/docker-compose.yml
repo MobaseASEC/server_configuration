@@ -13,7 +13,6 @@ services:
       - ./Source/crawler.py:/app/crawler.py
       - ./Source/rules.py:/app/rules.py
       - ./Source/db_mysql.py:/app/db_mysql.py
-      - ./data:/app/data
       - ./logs:/var/log
 
   mysql:
