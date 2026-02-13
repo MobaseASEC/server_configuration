@@ -1,0 +1,1478 @@
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: xoxb-93671...
+CHANNEL_ID: C0ABJ3BP7B7
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+DB 저장 결과: 신규 0, 중복 45
+신규 기사 없음 → Slack 전송 스킵
+[CRON] Thu Feb 12 00:54:01 UTC 2026
+[CRON] Thu Feb 12 00:55:01 UTC 2026
+[CRON] Thu Feb 12 00:56:01 UTC 2026
+[NOW] Thu Feb 12 09:57:00 KST 2026
+[CRON] Thu Feb 12 00:57:01 UTC 2026
+[CRON] Thu Feb 12 00:58:01 UTC 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+Traceback (most recent call last):
+  File "/app/crawler.py", line 337, in <module>
+    inserted, skipped, new_articles = save_articles(articles, keyword)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/db_mysql.py", line 65, in save_articles
+    conn = get_conn()
+           ^^^^^^^^^^
+  File "/app/db_mysql.py", line 40, in get_conn
+    host=os.environ["MYSQL_HOST"],
+         ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "<frozen os>", line 679, in __getitem__
+KeyError: 'MYSQL_HOST'
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+Traceback (most recent call last):
+  File "/app/crawler.py", line 337, in <module>
+    inserted, skipped, new_articles = save_articles(articles, keyword)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/db_mysql.py", line 65, in save_articles
+    conn = get_conn()
+           ^^^^^^^^^^
+  File "/app/db_mysql.py", line 40, in get_conn
+    host=os.environ["MYSQL_HOST"],
+         ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "<frozen os>", line 679, in __getitem__
+KeyError: 'MYSQL_HOST'
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+raw=50 filtered=46
+after_deduped=46
+Traceback (most recent call last):
+  File "/app/crawler.py", line 337, in <module>
+    inserted, skipped, new_articles = save_articles(articles, keyword)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/db_mysql.py", line 65, in save_articles
+    conn = get_conn()
+           ^^^^^^^^^^
+  File "/app/db_mysql.py", line 40, in get_conn
+    host=os.environ["MYSQL_HOST"],
+         ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "<frozen os>", line 679, in __getitem__
+KeyError: 'MYSQL_HOST'
+[ENVTEST] MYSQL_HOST=
+[ENVTEST] MYSQL_HOST=
+[ENVTEST] MYSQL_HOST=
+[ENVTEST] MYSQL_HOST=
+[ENVTEST] MYSQL_HOST=
+[ENVTEST] MYSQL_HOST=
+MYSQL_HOST=100.109.88.49
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: xoxb-93671...
+CHANNEL_ID: C0ABJ3BP7B7
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+DB 저장 결과: 신규 0, 중복 45
+신규 기사 없음 → Slack 전송 스킵
+[RUN TEST 10:50] Thu Feb 12 01:50:01 UTC 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+raw=50 filtered=46
+after_deduped=46
+DB 저장 결과: 신규 0, 중복 46
+신규 기사 없음 → Slack 전송 스킵
+CRON_OK Thu Feb 12 06:09:01 UTC 2026
+CRON_OK Thu Feb 12 06:10:01 UTC 2026
+CRON_OK Thu Feb 12 06:11:01 UTC 2026
+CRON_OK Thu Feb 12 06:12:01 UTC 2026
+CRON_OK Thu Feb 12 06:13:01 UTC 2026
+CRON_OK Thu Feb 12 06:14:01 UTC 2026
+CRON_OK Thu Feb 12 06:15:01 UTC 2026
+CRON_OK Thu Feb 12 06:16:01 UTC 2026
+CRON_OK Thu Feb 12 06:17:01 UTC 2026
+CRON_OK Thu Feb 12 15:18:01 KST 2026
+CRON_OK Thu Feb 12 15:19:01 KST 2026
+CRON_OK Thu Feb 12 15:20:01 KST 2026
+CRON_OK Thu Feb 12 15:21:01 KST 2026
+[START] Thu Feb 12 15:44:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+raw=50 filtered=46
+after_deduped=46
+Traceback (most recent call last):
+  File "/app/crawler.py", line 337, in <module>
+    inserted, skipped, new_articles = save_articles(articles, keyword)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/db_mysql.py", line 65, in save_articles
+    conn = get_conn()
+           ^^^^^^^^^^
+  File "/app/db_mysql.py", line 40, in get_conn
+    host=os.environ["MYSQL_HOST"],
+         ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "<frozen os>", line 679, in __getitem__
+KeyError: 'MYSQL_HOST'
+[END] Thu Feb 12 15:44:02 KST 2026 rc=1
+[START] Thu Feb 12 15:50:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+Traceback (most recent call last):
+  File "/app/crawler.py", line 337, in <module>
+    inserted, skipped, new_articles = save_articles(articles, keyword)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/db_mysql.py", line 65, in save_articles
+    conn = get_conn()
+           ^^^^^^^^^^
+  File "/app/db_mysql.py", line 40, in get_conn
+    host=os.environ["MYSQL_HOST"],
+         ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "<frozen os>", line 679, in __getitem__
+KeyError: 'MYSQL_HOST'
+[END] Thu Feb 12 15:50:02 KST 2026 rc=1
+[CRON TEST]  Thu Feb 12 15:55:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+DB 저장 결과: 신규 1, 중복 44
+Traceback (most recent call last):
+  File "/app/crawler.py", line 347, in <module>
+    thread_ts = slack_post_message(main_msg)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/crawler.py", line 137, in slack_post_message
+    raise RuntimeError("SLACK_BOT_TOKEN / SLACK_CHANNEL_ID 환경변수 미 존재.")
+RuntimeError: SLACK_BOT_TOKEN / SLACK_CHANNEL_ID 환경변수 미 존재.
+[CRON TEST]  Thu Feb 12 15:58:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: None
+CHANNEL_ID: None
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+raw=50 filtered=46
+after_deduped=46
+DB 저장 결과: 신규 1, 중복 45
+Traceback (most recent call last):
+  File "/app/crawler.py", line 347, in <module>
+    thread_ts = slack_post_message(main_msg)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/crawler.py", line 137, in slack_post_message
+    raise RuntimeError("SLACK_BOT_TOKEN / SLACK_CHANNEL_ID 환경변수 미 존재.")
+RuntimeError: SLACK_BOT_TOKEN / SLACK_CHANNEL_ID 환경변수 미 존재.
+[CRON TEST]  Thu Feb 12 16:00:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: xoxb-93671...
+CHANNEL_ID: C0ABJ3BP7B7
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+raw=50 filtered=46
+after_deduped=46
+DB 저장 결과: 신규 1, 중복 45
+Slack API(main) ok: True error: None
+키워드: 자동차 SW · 자동차SW · 차량 소프트웨어 · SDV
+Slack sending SUCCESS
+[CRON TEST]  Thu Feb 12 16:02:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: xoxb-93671...
+CHANNEL_ID: C0ABJ3BP7B7
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+DB 저장 결과: 신규 0, 중복 45
+신규 기사 없음 → Slack 전송 스킵
+[CRON TEST]  Thu Feb 12 16:03:01 KST 2026
+SCRIPT: /app/crawler.py
+PY: /usr/local/bin/python3
+BOT_TOKEN: xoxb-93671...
+CHANNEL_ID: C0ABJ3BP7B7
+raw=50 filtered=1
+after_deduped=1
+raw=50 filtered=2
+after_deduped=2
+raw=50 filtered=3
+after_deduped=3
+raw=50 filtered=4
+after_deduped=4
+raw=50 filtered=5
+after_deduped=5
+raw=50 filtered=6
+after_deduped=6
+raw=50 filtered=7
+after_deduped=7
+raw=50 filtered=8
+after_deduped=8
+raw=50 filtered=9
+after_deduped=9
+raw=50 filtered=10
+after_deduped=10
+raw=50 filtered=11
+after_deduped=11
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=12
+after_deduped=12
+raw=50 filtered=13
+after_deduped=13
+raw=50 filtered=14
+after_deduped=14
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=15
+after_deduped=15
+raw=50 filtered=16
+after_deduped=16
+raw=50 filtered=17
+after_deduped=17
+raw=50 filtered=18
+after_deduped=18
+raw=50 filtered=19
+after_deduped=19
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=20
+after_deduped=20
+raw=50 filtered=21
+after_deduped=21
+raw=50 filtered=22
+after_deduped=22
+raw=50 filtered=23
+after_deduped=23
+raw=50 filtered=24
+after_deduped=24
+raw=50 filtered=25
+after_deduped=25
+raw=50 filtered=26
+after_deduped=26
+raw=50 filtered=27
+after_deduped=27
+raw=50 filtered=28
+after_deduped=28
+raw=50 filtered=29
+after_deduped=29
+raw=50 filtered=30
+after_deduped=30
+raw=50 filtered=31
+after_deduped=31
+raw=50 filtered=32
+after_deduped=32
+raw=50 filtered=33
+after_deduped=33
+raw=50 filtered=34
+after_deduped=34
+raw=50 filtered=35
+after_deduped=35
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=36
+after_deduped=36
+raw=50 filtered=37
+after_deduped=37
+raw=50 filtered=38
+after_deduped=38
+raw=50 filtered=39
+after_deduped=39
+raw=50 filtered=40
+after_deduped=40
+raw=50 filtered=41
+after_deduped=41
+raw=50 filtered=42
+after_deduped=42
+raw=50 filtered=43
+after_deduped=43
+raw=50 filtered=44
+after_deduped=44
+raw=50 filtered=45
+after_deduped=45
+DB 저장 결과: 신규 0, 중복 45
+신규 기사 없음 → Slack 전송 스킵

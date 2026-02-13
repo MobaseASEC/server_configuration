@@ -3,3 +3,4 @@ jenkins-data
 __pycache__/
 gitea/data/
 .env
+.log

@@ -6,7 +6,7 @@ services:
     container_name: crawler
     restart: unless-stopped
     env_file:
-      - ./Source/.env
+      - .env
     environment:
       - TZ=Asia/Seoul
     volumes:
@@ -16,5 +16,19 @@ services:
       - ./data:/app/data
       - ./logs:/var/log
 
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: chean23k!!
+      MYSQL_DATABASE: WEBCRAWLING
+      MYSQL_USER: ASEC
+      MYSQL_PASSWORD: chean23k!!
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
 volumes:
-  data:
+  mysql_data:
